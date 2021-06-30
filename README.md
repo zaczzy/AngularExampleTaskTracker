@@ -1,3 +1,7 @@
+# Credit
+Angular Crash Course 2021
+https://www.youtube.com/watch?v=3dHNOWTI7H8
+
 # HelloWorld
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
